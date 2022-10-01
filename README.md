@@ -15,3 +15,7 @@ Clone this repo:
 Navigate to the script-directory:
 
 `cd mobirise-appimage`
+
+Make the sript executable:
+
+`chmod +x `
