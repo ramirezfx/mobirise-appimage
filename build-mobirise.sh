@@ -1,7 +1,7 @@
 #!/bin/bash
 WORKDIR=mobirise.AppDir
 rm -Rf $WORKDIR
-rm mobirise5beta-setup.deb
+rm *.deb
 rm appimagetool-x86_64.AppImage
 DLLINK=$(wget --save-headers --output-document - https://mobirise.com/history.html | grep .deb | grep -Eo 'https://[^ >]+'|head -1 | cut -d'"' -f 1)
 wget https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-x86_64.AppImage
