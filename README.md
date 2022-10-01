@@ -24,6 +24,6 @@ Run the sript:
 
 `./build-mobirise.sh`
 
-The latest version of mobirise will now be downloaded and and AppImage will be created.
+The latest version of mobirise will now be downloaded and the AppImage will be created.
 
 The file will be created in the same directory and the name will be Mobirise-x86.AppImage
