@@ -10,4 +10,8 @@ Install GIT:
 
 Clone this repo:
 
-`git clone `
+`git clone https://github.com/ramirezfx/mobirise-appimage.git`
+
+Navigate to the script-directory:
+
+`cd mobirise-appimage`
